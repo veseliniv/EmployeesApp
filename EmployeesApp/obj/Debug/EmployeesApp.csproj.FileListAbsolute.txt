@@ -1,0 +1,15 @@
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.exe.config
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.exe
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.pdb
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.csprojAssemblyReference.cache
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\MainWindow.g.cs
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\App.g.cs
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp_MarkupCompile.cache
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp_MarkupCompile.lref
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\MainWindow.baml
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.g.resources
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.Properties.Resources.resources
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.csproj.GenerateResource.cache
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.exe
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.pdb
+D:\Apps\TestApps\EmployeesApp\EmployeesApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

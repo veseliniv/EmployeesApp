@@ -1,0 +1,50 @@
+﻿<Window x:Class="EmployeesApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeesApp"
+        xmlns:vms="clr-namespace:EmployeesApp.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        SizeToContent="Width"
+        Background="Gray">
+    <Window.DataContext>
+        <vms:EmployeesViewModel/>
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" 
+              VerticalAlignment="Top"
+              HorizontalAlignment="Stretch">
+            <MenuItem Header="File">
+                <MenuItem Header="Open" Command="{Binding OpenFile}"/>
+            </MenuItem>
+        </Menu>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="All employees"
+                      Grid.Column="0"
+                      Margin="10"
+                      Padding="10">
+                <DataGrid CanUserAddRows="False"
+                          ItemsSource="{Binding Employees}"/>
+            </GroupBox>
+            <GroupBox Header="A couple of employees who have worked for the longest time in a team"
+                      Grid.Column="1"
+                      Margin="10"
+                      Padding="10">
+                <DataGrid CanUserAddRows="False"
+                          ItemsSource="{Binding MostWorkedEmploeeys}"/>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>

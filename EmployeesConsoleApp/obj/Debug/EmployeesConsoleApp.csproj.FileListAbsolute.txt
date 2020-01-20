@@ -1,0 +1,10 @@
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesConsoleApp.exe.config
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesConsoleApp.exe
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesConsoleApp.pdb
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesApp.exe
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesApp.pdb
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\bin\Debug\EmployeesApp.exe.config
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\obj\Debug\EmployeesConsoleApp.csprojAssemblyReference.cache
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\obj\Debug\EmployeesConsoleApp.csproj.CopyComplete
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\obj\Debug\EmployeesConsoleApp.exe
+D:\Apps\TestApps\EmployeesApp\EmployeesConsoleApp\obj\Debug\EmployeesConsoleApp.pdb
